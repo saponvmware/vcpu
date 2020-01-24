@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://saponvmware.github.io/archives/</loc>
+    <loc>https://saponvmware.github.io/vcpu/archives/</loc>
   </url>
   
   <url>
-    <loc>https://saponvmware.github.io/categories/</loc>
+    <loc>https://saponvmware.github.io/vcpu/categories/</loc>
   </url>
   
   <url>
-    <loc>https://saponvmware.github.io/</loc>
+    <loc>https://saponvmware.github.io/vcpu/</loc>
   </url>
   
   <url>
-    <loc>https://saponvmware.github.io/tags/</loc>
+    <loc>https://saponvmware.github.io/vcpu/tags/</loc>
   </url>
   
 </urlset>
